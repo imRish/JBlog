@@ -1,10 +1,10 @@
 # Site
-title:          JBlog
+title:          Snippeteer
 bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
+picture:        'assets/img/logo.svg'
 locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
+url:            https://imRish.github.io/snippeteer
 
 
 # Jekyll
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+# twitter: username
+facebook: therishabhpandey
 #google:
   #plus: #username
   #analytics:
@@ -33,19 +33,19 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: imRish
+# stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: rish95
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+instagram: therishabhpandey
+# lastfm: username
+# tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+# steam: username
 #dribbble: username
-youtube: username
-#soundcloud: username
+# youtube: username
+soundcloud: iamrish
 #weibo: username
 #flickr: username
 #codepen: username
